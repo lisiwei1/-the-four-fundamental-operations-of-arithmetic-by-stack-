@@ -1,0 +1,10 @@
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\bin\Debug\栈-四则运算.exe.config
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\bin\Debug\栈-四则运算.exe
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\bin\Debug\栈-四则运算.pdb
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈-四则运算.csprojAssemblyReference.cache
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈_四则运算.Form1.resources
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈_四则运算.Properties.Resources.resources
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈-四则运算.csproj.GenerateResource.cache
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈-四则运算.csproj.CoreCompileInputs.cache
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈-四则运算.exe
+C:\Users\李思炜\source\repos\栈-四则运算\栈-四则运算\obj\Debug\栈-四则运算.pdb
